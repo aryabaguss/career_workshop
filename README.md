@@ -1,14 +1,15 @@
 # Technical Test Practice Repository
 
 ## Overview
-This repository contains my solutions to various technical coding challenges and practice problems from my bootcamp training. It serves as a documentation of my learning journey and coding practice.
+This repository contains my solutions to various technical coding challenges and practice problems from Pacmann Technical Python Test. It serves as a documentation of my learning journey and coding practice.
 
 ## Structure
 The repository is organized by different types of problems/challenges:
-- list Manipulation
+- List Manipulation
 - String Operations
 - Data Structures
 - Algorithms
+- Logical Thinking
 
 ## Technologies Used
 - Python
@@ -26,8 +27,8 @@ The repository is organized by different types of problems/challenges:
 
 ## Problem Examples
 Here are some examples of the problems solved:
-1. Finding majority elements in a list
-2. Count multiples in range
+1. Count multiples in range
+2. Finding majority elements in a list
 3. Check for unique digits
 4. Move zero values to end in a list
 5. Anagrams
@@ -52,12 +53,12 @@ This is a personal practice repository, but suggestions and improvements are wel
 - Share additional test cases
 
 ## Contact
-Arya Bagus - https://github.com/aryabaguss
+Arya Bagus - https://github.com/aryabaguss 
 
 ## Acknowledgments
 - Pacmann for providing the technical challenges
 - Fellow Pacmann students for collaboration and feedback
-- Mentors for guidance
+- Mentors for guidance and feedback
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
